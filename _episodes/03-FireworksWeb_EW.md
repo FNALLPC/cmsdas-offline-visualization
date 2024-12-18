@@ -18,32 +18,29 @@ Once the path is provided click the
 
 ![fireworksweb_5.png](../fig/fireworksweb_5.png){: width="70%"}
 
-Before starting to play around, we can move to a more interesting event.
-You can scan through the events by clicking the event navigation buttons
-(right arrow), or enter the Run/Lumi/Event number directly. In this
-exercise, each file has only one Run, you just need to edit the
-lumi/event number to go to the new event.
+To get a better sense of the event's geometry, you can add the ECAL barrel to the event view in the following way:
+
+![fireworksweb_24.png](../fig/fireworksweb_24.png){: width="70%"}
+
+Before starting to play around, we can move to a more interesting event. You can scan through the events by clicking the event navigation buttons (right arrow), or enter the Run/Lumi/Event number directly. In this exercise, each file has only one Run, you just need to edit the lumi/event number to go to the new event.
 
 Skip to the third event in the file, run/lumi/event is
 1/416042/83208204.
 
 ![fireworksweb_6.png](../fig/fireworksweb_6.png){: width="70%"}
 
-Try to click the interesting objects in the 3D view window and answer
-the below question:
+Try to click the interesting objects in the 3D view window and answer the below question:
 
 > ## Question 1
 >  How many different kinds of objects are there? What are they?
 {: .challenge }
-Try to explore this event with different views with Fireworks. To swap
-the \"main\" panel with other view, click on `View` at the top drop down
-menu, then navigate to a view e.g. `RPhi` and click on `Switch Sides` to
-make them go \"main\" view.
+Try to explore this event with different views with Fireworks. To swap the \"main\" panel with other view, click the button with the left-pointing arrow in the panel you wish to make your main one. You can look at other available views by clicking `Views` in the top-left and then the selecting the view you wish to add from the drop-down menu.
+
 
 > ## Question 2
 > Using the Table View on the bottom right, from the drop down menu below `Choose Collection:` choose Muons.
 > How many additional Muons are not being displayed? (i.e. grayed out) Why
-> are they hidden (Hint: press the \"pencil-shaed\" button in the left
+> are they hidden (Hint: press the \"pencil-shaped\" button in the left
 > panel \"Muons\" section)?
 >
 >> ## Solution
@@ -65,7 +62,7 @@ make them go \"main\" view.
 
 > ## Question 4
 > Use the Table View in the bottom right corner to learn more details about the Muons collection. The table
-> doesn\'t show dZ, to add it: go to the Muon collection, and click on the edit table button with a pencil icon; then in the expression text box,
+> doesn\'t show dZ, to add it: in the table panel, go to the Muons collection, and click on the \"Edit Collection Columns\" button; then in the expression text box,
 > write `i.track()->dz()`, give a title \"dz\", and define precision \"3\"
 > and click \"Add\". Why does the 5.9 GeV muon stand out? Could you have seen this by zooming in on the Rho-Z View?
 >> ## Solution
