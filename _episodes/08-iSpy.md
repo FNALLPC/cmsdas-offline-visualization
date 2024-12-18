@@ -1,5 +1,5 @@
 ---
-title: iSpy event viewer
+title: iSpy Event Viewer
 ---
 
 The iSpy event display platform is used widely for CMS outreach and Open
