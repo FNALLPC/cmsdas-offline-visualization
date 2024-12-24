@@ -11,11 +11,7 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 
 
-<!-- # 2024 CMS Data Analysis School Event Display and Particle Flow Exercise -->
-
-
-Note: this exercise has been cloned from
-[VisualizationHATSatLPC2023](https://twiki.cern.ch/twiki/bin/view/CMS/VisualizationHATSatLPC2023)
+<!-- # 2025 CMS Data Analysis School Event Display and Particle Flow Exercise -->
 
 This page has a Twiki: [link](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2025Visualization)
 

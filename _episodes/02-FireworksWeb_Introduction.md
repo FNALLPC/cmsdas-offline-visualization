@@ -1,13 +1,18 @@
 ---
 title: "FireworksWeb Introduction"
-teaching: 60
-exercises: 30
-# questions:
-
+teaching: 20
+exercises: 15
+questions:
+    - "What is FireworksWeb?"
+    - "How can FireworksWeb be used to analyze CMS event data?"
+    - "What are the benefits of using FireworksWeb over traditional Fireworks?"
 objectives:
-
-# keypoints:
-
+    - "Understand the purpose and functionality of FireworksWeb."
+    - "Learn how to access and use FireworksWeb for CMS event data analysis."
+keypoints:
+    - "FireworksWeb is a web-based application for CMS event display."
+    - "It allows users to analyze CMS event data without cumbersome installations."
+    - "You can access files stored on CERN EOS or the CERN Open Data Portal depending on the FireworksWeb instance you use."
 ---
 
 The Fireworks team has created a web-based fireworks application. Fireworks is a longstanding CMS event display tool that interacts with [MiniAOD](https://twiki.cern.ch/twiki/bin/view/CMS/MiniAOD){: target="_blank"} files and allows the user to significantly customize the event display. The following 5 "explorations" can be done offline by anyone referencing this short exercise TWiki.

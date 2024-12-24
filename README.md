@@ -11,14 +11,12 @@
 # Event Display and Particle Flow Exercise
 
 > **Note**
-> Click [here](https://FNALLPC.github.io/Visualization_ShortEx/) for the training website!
-
-
+> Click [here](https://FNALLPC.github.io/cmsdas-offline-visualization/) for the training website!
 
 ## Links
 
-* [CMSDAS Indico event, Jan 2024](https://indico.cern.ch/)
-* [Twiki version here](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchoolLPC2024VisualizationExercise)
+* [CMSDAS Indico event, Jan 2025](https://indico.cern.ch/event/1462056/)
+* [Twiki version here](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDataAnalysisSchoolLPC2025Visualization)
 
 
 ## 🤗 Contributing
